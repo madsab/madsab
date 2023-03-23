@@ -1,5 +1,5 @@
 # Hi there 👋
-- Young positivbe developer in progress.
+- Young positive developer in progress.
 - Love long walks on the beach and picnic in the park
 
 ## My Languages and Tools
